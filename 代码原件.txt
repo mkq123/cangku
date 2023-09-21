@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+div {
+  position: relative;
+}
+img {
+    width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+
+</style>
+<body>
+
+    <div>
+ <h1 align="center" style="background-color: rgb(164, 149, 196);">
+      学弟学妹你们好！
+ </h1>
+ 
+    <pre style="background-color: rgb(173, 138, 141);">
+     1.加入了ChatGpt（免费）
+     可以帮助大家写那些没有“意义”的论文。
+
+     2.对于计算机初学者来说，第一关就是配置环境了，
+     那么好以下是一些正版软件（源自软件官网）
+     及我筛选过的对应的 汉化教程 和 环境配置教程（源自哔哩哔哩）
+
+     3.还加入了很多白嫖资源网（免费电影 番剧）我自己都在用 分享给同学们
+     大家对网址的宣传就是对我最好的鼓励！
+     如果使用过程中有疑问可以添加我的wx
+                               Mark050912
+    </pre>
+    <figure> <h3 style="display: block;background-color: antiquewhite;"align="center" >声明：点击图片进入 点击文字查看</h3>
+      <a href="https://ygyy1.com/?ref=iiice.cn"><img src="https://pic4.zhimg.com/v2-15a59574a2d2d6b80d7e74af3f1fe268_r.jpg?source=1940ef5c">免费院线电影！</a>
+    
+    </figure>
+<div>
+       <a href="https://gpt.aiduihua.com/h5/10001/#/"><img src="https://img0.baidu.com/it/u=786177229,4074273293&fm=253&app=120&size=w931&n=0&f=JPEG&fmt=auto"></a>
+    <p>这个没啥 点进去问问题就是了</p>
+</div>
+<div>
+     <figure>
+     <a href="https://www.python.org/downloads/"><img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.dJToM1TiZiJA0GYwzDHwjQHaHY?"></a>
+     <a href="https://www.bilibili.com/video/BV1QZ4y1A71T/?spm_id_from=333.337.search-card.all.click">汉化教程</a> 
+     </figure>
+</div> 
+<div>
+     <figure>
+     <a href="https://code.visualstudio.com/"><img src="https://gimg3.baidu.com/search/src=http%3A%2F%2Fgips3.baidu.com%2Fit%2Fu%3D700293492%2C1979050481%26fm%3D3030%26app%3D3030%26f%3DJPEG%3Fw%3D121%26h%3D74%26s%3D1A2056229BA1985946F9EF8B0300F086&refer=http%3A%2F%2Fwww.baidu.com&app=2021&size=f242,150&n=0&g=0n&q=100&fmt=auto"></a>
+     <a href="https://www.bilibili.com/video/BV1Cu411y7vT/?spm_id_from=333.337.search-card.all.click"style="display:block">path配置+汉化教程（这个有点难，跟着视频就行了）</a>
+     </figure>
+</div>
+<div>
+    <a href="https://www.123pan.com/s/AYG9-HtVyH.html"> 
+     <img src="https://ms.bdimg.com/pacific/0/pic/2137717335_1796804759.jpg">
+     </a>
+     <a href="https://www.bilibili.com/video/BV1Cp4y1H7k7"style="display:block">教程</a>
+</div>
+<div>
+
+  
+
+<figure>
+     <a href="https://bloodshed-dev-c.en.softonic.com/?ex=CS-1680.1"><img src="https://img.onlinedown.net/download/202307/171410-64abcbe219321.png"></a>
+     <a href="https://www.bilibili.com/video/BV1Fp4y1Y7xJ/?spm_id_from=333.337.search-card.all.click">DEV汉化教程（这玩意最烦了！！！）</a>
+     </figure>   
+
+
+</div>
+
+
+
+
+
+
+</body>
+
+
+</html>
